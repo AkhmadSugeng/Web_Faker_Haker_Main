@@ -1,4 +1,4 @@
-Nama: Luthfi Sulthany Mutaqqien
-NIM: 230401020039
+Nama: Akhmad Sugeng Saputro
+NIM: 240401010142
 Mata Kuliah: Pemrograman Web 1
-Dosen:  Pa R.M.Firzatullah, M.Kom
+Dosen: Riad Sahara, S.SI, MT.
